@@ -1,0 +1,23 @@
+name: consignado-digital-lab-completo
+description: >-
+  Laboratório completo, passo a passo, do Framework .Bob (Sicoob) usando um
+  cenário de crédito consignado (simulação e contratação digital) para
+  exercitar os 13 modos originais do framework, 2 sprints reais, estimativa de custo por
+  papel, o portão de design do Designer e um deploy real no Colima. Use como
+  roteiro de treinamento, onboarding ou demonstração ponta a ponta do
+  framework — do Oráculo ao release, com checkpoints e portões de aprovação
+  em cada módulo.
+type: recipe
+origin: renato
+author: Renato Saragiotto
+trust_tier: community
+license: Sicoob-Internal
+keywords:
+  - framework-sicoob
+  - lab
+  - credito-consignado
+  - onboarding
+  - treinamento
+  - sdd
+metadata:
+  enabled: true
